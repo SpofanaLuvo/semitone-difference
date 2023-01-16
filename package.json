@@ -1,0 +1,27 @@
+{
+  "name": "luvo-spofana-199-semitone-difference-basic-algorithm-javascript",
+  "version": "1.0.0",
+  "description": "semitone difference - basic algorithm (199)\r For raw project instructions see: http://syllabus.africacode.net/projects/semitone-challenge/basic-algorithm/",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^4.2.1",
+    "jsdom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@testing-library/jasmine-dom": "^1.2.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Luvo-Spofana-199-semitone-difference-basic-algorithm-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Luvo-Spofana-199-semitone-difference-basic-algorithm-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Luvo-Spofana-199-semitone-difference-basic-algorithm-javascript#readme",
+  "keywords": []
+}
